@@ -7,5 +7,6 @@
     <classes>
       <class name="org.sample.ParameterizationExample"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
