@@ -3,10 +3,8 @@
 <suite name="Suite" verbose = "5">
   <test thread-count="5" name="Test">
   <parameter name="Name" value="Duck"></parameter>
-  
     <classes>
       <class name="org.sample.ParameterizationExample"/>
     </classes>
-    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
